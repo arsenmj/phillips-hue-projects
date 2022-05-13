@@ -40,4 +40,3 @@ while(True):
     else:
         print('thread1 is alive')
     time.sleep(2)
-
