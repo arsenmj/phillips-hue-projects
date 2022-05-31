@@ -1,3 +1,4 @@
+"""Hue Bulb module for controlling Philips Hue Bulbs."""
 import requests
 import time
 

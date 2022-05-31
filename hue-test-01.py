@@ -1,8 +1,10 @@
-import requests
-import time
-import huebulb as hue
-import threading
 import logging
+import threading
+import time
+
+import requests
+
+import huebulb as hue
 
 livingRoom = hue.Bulb(id=1)
 bedroom = hue.Bulb(id=2)
